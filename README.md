@@ -2,7 +2,7 @@
 
 ------
 
-### 您可以在这里下载翻墙中心推荐**VPN**的客户端，点击链接或扫描二维码即可下载：
+您可以在这里下载翻墙中心推荐**VPN**的客户端，点击链接或扫描二维码即可下载：
 
 ![astrill-logo](https://cc.greatfire.org/img/astrill-logo.png)
 >* [Astrill Windows版](https://github.com/greatfire/cc/raw/master/z/clients/astrill-setup-win-latest.exe)
