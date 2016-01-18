@@ -22,28 +22,12 @@
 <p>
 	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image53.png">
 </p>
-<h3>二.Mac 平台的 PureVPN 客户端安装</h3>
-<p>1。首先下载PureVPN 客户端：https://billing.purevpn.com/get_started 并选择您所需要的版本。</p>
-<p>
-	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image44.png">
-</p>
-<p>
-	2.下载完成后打开即可完成安装<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image22.png">
-</p>
-<p>3。拖放PureVPN 到 “应用程序”上。</p>
-<p>
-	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image28.png">
-</p>
-<p>现在PureVPN就会出现在您的主屏幕上了。</p>
-<p>
-	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image46.png">
-</p>
-<h3>三.PureVPN 客户端的使用</h3>
+<h3>PureVPN 客户端的使用</h3>
 <p>1。打开PureVPN 客户端，输入您 账户信息。</p>
 <p>
 	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image37.png">
 </p>
-<p>2。选择您所需要的模式，一共有5种模式：。</p>
+<p>2。选择您所需要的模式，一共有5种模式：</p>
 <p>I want to STREAM 适合流媒体。</p>
 <p>I want to UNBLOCK 适合突破封锁。</p>
 <p>I want SECURITY／PRIVACY 适合保护隐私。</p>
