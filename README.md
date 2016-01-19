@@ -6,10 +6,14 @@
 
 ![astrill-logo](https://cc.greatfire.org/img/astrill-logo.png)
 
->* [Astrill Windows版](https://github.com/greatfire/cc/raw/master/z/clients/astrill-setup-win-latest.exe) [使用说明](https://github.com/greatfire/cc/blob/master/Astrill.Windows.md)
+>* [Astrill Windows版](https://github.com/greatfire/cc/raw/master/z/clients/astrill-setup-win-latest.exe) 
+
+>* [使用说明](https://github.com/greatfire/cc/blob/master/Astrill.Windows.md)
 
 ![purevpn-logo](https://cc.greatfire.org/img/purevpn-logo.png)
 
->* [PureVPN Windows版](https://github.com/greatfire/cc/raw/master/z/clients/purevpn_setup-latest.exe) [使用说明](https://github.com/greatfire/cc/blob/master/PureVPN.Windows.md)
+>* [PureVPN Windows版](https://github.com/greatfire/cc/raw/master/z/clients/purevpn_setup-latest.exe) 
+
+>* [使用说明](https://github.com/greatfire/cc/blob/master/PureVPN.Windows.md)
 
 如果您遇到任何问题，请反馈到<support@greatfire.org>
