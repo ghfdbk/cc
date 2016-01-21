@@ -16,7 +16,7 @@
 
 >* [PureVPN Windows版](https://github.com/greatfire/cc/raw/master/z/clients/purevpn_setup-latest.exe) [使用说明](https://github.com/greatfire/cc/blob/master/PureVPN.Windows.md)
 
->* [PureVPN Android版](https://github.com/greatfire/cc/raw/master/z/clients/purevpnics-latest.apk)  **（国内暂时无法使用）** [使用说明](https://github.com/greatfire/cc/blob/master/PureVPN.Android.md)
+>* [PureVPN Android版](https://github.com/greatfire/cc/raw/master/z/clients/purevpnics-latest.apk)  **（国内暂时无法使用）** 
 
 ![](https://raw.githubusercontent.com/greatfire/cc/master/z/img/QR%20code/purevpnics-latest.apk.png)
 
